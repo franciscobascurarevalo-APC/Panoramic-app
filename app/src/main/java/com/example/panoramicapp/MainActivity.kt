@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             PanoramicAppTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = " francisco bascur arevalo....... ",
+                        name = " ....... ",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
